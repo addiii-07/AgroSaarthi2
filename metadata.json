@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix  Agrosaarthi ",
+  "description": "AI-Powered Smart Agriculture Platform with AI crop recommendations, disease detection, weather, market prices, government schemes, insurance claims, multi-role dashboards (Farmer, Officer, Admin), and mobile app preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
